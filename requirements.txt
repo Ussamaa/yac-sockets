@@ -1,6 +1,6 @@
 # FastAPI Framework
 fastapi==0.115.0
-uvicorn[standard]==0.32.0
+uvicorn==0.32.0
 python-socketio==5.11.1
 
 # Alpaca SDK
@@ -8,7 +8,7 @@ alpaca-py==0.28.3
 
 # Database
 motor==3.6.0
-pymongo==4.10.1
+pymongo==4.9.0
 
 # Redis (optional)
 redis==5.2.0
